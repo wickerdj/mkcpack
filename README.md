@@ -1,0 +1,2 @@
+# mkcpack
+Sample golang package
