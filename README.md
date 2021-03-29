@@ -1,2 +1,2 @@
 # mkcpack
-Sample golang package
+Sample golang package. Following a YouTube video created by Maharlikans Code.
